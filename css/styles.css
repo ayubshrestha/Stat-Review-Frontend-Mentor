@@ -101,14 +101,15 @@ span {
 }
 
 
+
 /* Responsive */
-@media screen and (max-width: 350px) {
-    .container{
-        width: 315px;
+@media screen and (max-width: 385px) {
+    .container {
+        width: 328px;
         height: auto;
         flex-direction: column-reverse;
         overflow: hidden;
-         margin-top: 80px;
+        margin-top: 80px;
         margin-bottom: 80px;
     }
 
